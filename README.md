@@ -5,6 +5,7 @@ KubeArmor's relay server collects all messages, alerts, and system logs generate
 By default, the relay server is deployed with KubeArmor.
 
 ![Kubearmor Relay Server HLD](docs/relay-server.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubearmor%2Fkubearmor-relay-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubearmor%2Fkubearmor-relay-server?ref=badge_shield)
 
 ## Streaming Kubearmor events to external SIEM tools
 
@@ -34,3 +35,7 @@ example
 <img src="docs/kubearmor-event-stream-arch.png" width="512">
 
 > Microsoft Sentinel is used as an example in this figure
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkubearmor%2Fkubearmor-relay-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkubearmor%2Fkubearmor-relay-server?ref=badge_large)
